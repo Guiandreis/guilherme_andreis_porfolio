@@ -5,7 +5,7 @@
 - Created a tool that classifies Chest x-Rays within normal and pneumonia classes to help medical diagnoses in time and assertiveness. 
 - Using CNN Resnet50 to reach the best CNN model.
 - Using Gradcam to access in the understanding of highlighted points by the model.
-![IMAGE 4](https://github.com/Guiandreis/guilherme_andreis_porfolio/tree/main/images/batch.jpg)
+![IMAGE 4](/images/batch.jpg)
 
 
 
