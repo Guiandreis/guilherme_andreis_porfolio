@@ -8,7 +8,7 @@
 ![IMAGE 1](https://github.com/Guiandreis/guilherme_andreis_porfolio/blob/main/images/cheast_image.png)
 ![IMAGE 2](https://github.com/Guiandreis/guilherme_andreis_porfolio/blob/main/images/gradcam_heatmap.PNG)
 ![IMAGE3](https://github.com/Guiandreis/guilherme_andreis_porfolio/blob/main/images/confusion_matrix.png)
-![IMAGE 4](https://github.com/Guiandreis/guilherme_andreis_porfolio/blob/main/images/batch_results_image.png)
+![IMAGE 4](https://github.com/Guiandreis/guilherme_andreis_porfolio/blob/main/images/batch.jpg)
 
 
 
