@@ -8,7 +8,9 @@
 
 ![Original image](/images/cheast_image1.png)
 ![Gradcam over image](/images/gradcam_heatmap1.PNG)
-![Confusion Matrix](/images/confusion_matrix1.png)
+
+
+![Confusion Matrix](/images/confusion_matrix.png)
 ![Batch result](/images/batch_result.png)
 
 
