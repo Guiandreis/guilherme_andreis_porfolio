@@ -10,8 +10,8 @@
 ![Gradcam over image](/images/gradcam_heatmap1.PNG)
 
 
-![Confusion Matrix image](/images/confusion_matrix2.png)
-![Batch result](/images/batch_result.png)
+![Confusion Matrix image](/images/confusion_matrix3.png)
+![Batch result](/images/batch_result4.png)
 
 
 
